@@ -1,4 +1,4 @@
-# Project Name
+# Cat API
 
 This project is an API that allows you to upload cat pictures to a database.
 
